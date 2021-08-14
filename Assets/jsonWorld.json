@@ -1,0 +1,228 @@
+{
+  "playerDatas": [
+    {
+      "pos": {
+        "x": -2.26123929,
+        "y": 6.41759062,
+        "z": -7.42,
+        "normalized": {
+          "x": -0.224607244,
+          "y": 0.637454569,
+          "z": -0.7370232,
+          "normalized": {
+            "x": -0.224607259,
+            "y": 0.6374546,
+            "z": -0.737023234,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.9999999
+        },
+        "magnitude": 10.0675259,
+        "sqrMagnitude": 101.355072
+      },
+      "rot": {
+        "x": 40.6066933,
+        "y": 90.0,
+        "z": 141.0074,
+        "normalized": {
+          "x": 0.235894173,
+          "y": 0.5228319,
+          "z": 0.819146335,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 172.13945,
+        "sqrMagnitude": 29631.99
+      },
+      "scale": {
+        "x": 0.9090909,
+        "y": 0.9090909,
+        "z": 0.9090909,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.57459164,
+        "sqrMagnitude": 2.47933865
+      },
+      "velocity": {
+        "x": 0.0,
+        "y": 3.69753361,
+        "z": 0.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 3.69753361,
+        "sqrMagnitude": 13.6717548
+      },
+      "angularVelocity": {
+        "x": 1.34117943E-06,
+        "y": 4.729893E-07,
+        "z": 6.80662537,
+        "normalized": {
+          "x": 1.970403E-07,
+          "y": 6.94895448E-08,
+          "z": 1.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 6.80662537,
+        "sqrMagnitude": 46.33015
+      }
+    },
+    {
+      "pos": {
+        "x": -2.818338,
+        "y": 2.90952349,
+        "z": -7.42,
+        "normalized": {
+          "x": -0.3333858,
+          "y": 0.3441723,
+          "z": -0.877724,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 8.453683,
+        "sqrMagnitude": 71.46476
+      },
+      "rot": {
+        "x": 293.545227,
+        "y": 235.94455,
+        "z": 166.4198,
+        "normalized": {
+          "x": 0.7129291,
+          "y": 0.5730352,
+          "z": 0.404181421,
+          "normalized": {
+            "x": 0.7129292,
+            "y": 0.57303524,
+            "z": 0.404181451,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.9999999
+        },
+        "magnitude": 411.7453,
+        "sqrMagnitude": 169534.188
+      },
+      "scale": {
+        "x": 0.9090909,
+        "y": 0.9090909,
+        "z": 0.9090909,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.57459164,
+        "sqrMagnitude": 2.47933865
+      },
+      "velocity": {
+        "x": 1.51529241,
+        "y": -0.883953869,
+        "z": 0.0,
+        "normalized": {
+          "x": 0.8637706,
+          "y": -0.50388515,
+          "z": 0.0,
+          "normalized": {
+            "x": 0.863770664,
+            "y": -0.5038852,
+            "z": 0.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.9999999
+        },
+        "magnitude": 1.75427639,
+        "sqrMagnitude": 3.07748556
+      },
+      "angularVelocity": {
+        "x": 1.0510087,
+        "y": 4.471704,
+        "z": -1.77254045,
+        "normalized": {
+          "x": 0.213459849,
+          "y": 0.908203065,
+          "z": -0.360002935,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 4.923683,
+        "sqrMagnitude": 24.2426548
+      }
+    }
+  ],
+  "coins": 3,
+  "coin": {
+    "pos": {
+      "x": -3.08799362,
+      "y": 7.0,
+      "z": -7.42,
+      "normalized": {
+        "x": -0.2897359,
+        "y": 0.6567861,
+        "z": -0.6961933,
+        "normalized": {
+          "x": -0.289735943,
+          "y": 0.656786144,
+          "z": -0.696193337,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 0.99999994,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 10.65796,
+      "sqrMagnitude": 113.5921
+    },
+    "rot": {
+      "x": 90.0,
+      "y": 99.33816,
+      "z": 0.0,
+      "normalized": {
+        "x": 0.671416163,
+        "y": 0.7410805,
+        "z": 0.0,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 134.045029,
+      "sqrMagnitude": 17968.07
+    },
+    "scale": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "magnitude": 0.0,
+      "sqrMagnitude": 0.0
+    },
+    "velocity": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "magnitude": 0.0,
+      "sqrMagnitude": 0.0
+    },
+    "angularVelocity": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "magnitude": 0.0,
+      "sqrMagnitude": 0.0
+    }
+  }
+}
