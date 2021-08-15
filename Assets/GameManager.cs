@@ -73,7 +73,7 @@ public class GameManager : MonoBehaviour
     public void CreateCoin()
     {
         var walls = FindObjectOfType<WallManager>();
-        coin = Instantiate(GameObjectResources("Coin"), new Vector3 (Random.Range(walls.left.transform.position.x+1, walls.right.transform.position.x-1), Random.Range(5,8), GameManager.distToPlayer), Quaternion.identity); 
+        coin = Instantiate(GameObjectResources("Coin"), new Vector3 (Random.Range(walls.left.transform.position.x+1, walls.right.transform.position.x-1), Random.Range(5,walls.up.transform.position.y-1), GameManager.distToPlayer), Quaternion.identity); 
     }
 
     void Update()
